@@ -43,3 +43,7 @@ The complete master is rebuilt locally; dependency folders, Webpack output, redu
 The inflammation drawing is a compressed teaching schematic, not patient data, a literal biological clock or an exhaustive molecular model. Dilation is assigned to arterioles, permeability and leukocyte exit especially to postcapillary venules. These processes overlap. Primary teaching sources are listed in each research.md; retain those caveats when adapting. Tree mass refers to carbon incorporation and dry mass; water contributes much fresh mass and minerals are still essential.
 
 All diagrams and demo text are original MIT material. Generated narration/test signals are dedicated to CC0. Noto fonts retain SIL OFL 1.1 notices in public/fonts/NOTICES.txt. No private recordings, copyrighted footage, music, logos or credentials are included. Remotion and the installed eSpeak engine retain their own licenses; no engine binary is redistributed. See [asset notes](ASSETS.md). No YouTube upload was performed.
+
+## Future production workflow
+
+Future anatomical films use the actual anatomy skill for biological design and ElevenLabs for new production narration, as configured in the toolkit production workflow. This repository retains its original generated test voices and diagrams as calibration/reproducibility examples. Reproducing them does not call ElevenLabs or imply that the anatomy skill was used. For a new production, start a toolkit project, resolve the anatomy skill, choose an ElevenLabs voice, generate/review actual timing cues, then build the animation.
