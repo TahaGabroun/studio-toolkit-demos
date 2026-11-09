@@ -1,0 +1,12 @@
+{
+  "engine": "remotion",
+  "composition": "Vertical",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "duration_frames": 888,
+  "codec": "h264",
+  "source_files": [
+    "animation.md"
+  ]
+}

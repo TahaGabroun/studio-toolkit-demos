@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "title": "من الهواء إلى الخشب",
+  "language": "ar",
+  "direction": "rtl",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "duration_frames": 888,
+  "engine": "remotion"
+}

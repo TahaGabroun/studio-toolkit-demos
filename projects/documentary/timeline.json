@@ -1,0 +1,60 @@
+{
+  "fps": 30,
+  "duration_frames": 1096,
+  "scenes": [
+    {
+      "id": "scene-1",
+      "start_frame": 0,
+      "end_frame": 242
+    },
+    {
+      "id": "scene-2",
+      "start_frame": 242,
+      "end_frame": 524
+    },
+    {
+      "id": "scene-3",
+      "start_frame": 524,
+      "end_frame": 793
+    },
+    {
+      "id": "scene-4",
+      "start_frame": 793,
+      "end_frame": 1096
+    }
+  ],
+  "events": [
+    {
+      "id": "event-1",
+      "start_frame": 12,
+      "end_frame": 227,
+      "target": "sunlight",
+      "cue_id": "cue-1",
+      "effect": "focus"
+    },
+    {
+      "id": "event-2",
+      "start_frame": 242,
+      "end_frame": 509,
+      "target": "air-and-water",
+      "cue_id": "cue-2",
+      "effect": "focus"
+    },
+    {
+      "id": "event-3",
+      "start_frame": 524,
+      "end_frame": 778,
+      "target": "sugars",
+      "cue_id": "cue-3",
+      "effect": "focus"
+    },
+    {
+      "id": "event-4",
+      "start_frame": 793,
+      "end_frame": 1080,
+      "target": "biomass",
+      "cue_id": "cue-4",
+      "effect": "track"
+    }
+  ]
+}

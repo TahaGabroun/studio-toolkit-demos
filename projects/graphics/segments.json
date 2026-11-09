@@ -1,0 +1,28 @@
+{
+  "segments": [
+    {
+      "id": "cue-1",
+      "start_s": 0.4,
+      "end_s": 5.919417,
+      "text": "Start with the voice. The explanation decides which object deserves attention."
+    },
+    {
+      "id": "cue-2",
+      "start_s": 6.419417,
+      "end_s": 11.307979,
+      "text": "Mark the exact cue. Store it once, on a shared frame timeline."
+    },
+    {
+      "id": "cue-3",
+      "start_s": 11.807979,
+      "end_s": 17.754104,
+      "text": "Build the relationship. Reveal the next connection while the current label stays readable."
+    },
+    {
+      "id": "cue-4",
+      "start_s": 18.254104,
+      "end_s": 25.388833,
+      "text": "Resolve into one composition. Voice, captions, and motion now share the same timing contract."
+    }
+  ]
+}

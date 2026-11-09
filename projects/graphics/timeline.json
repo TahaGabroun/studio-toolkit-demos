@@ -1,0 +1,60 @@
+{
+  "fps": 30,
+  "duration_frames": 777,
+  "scenes": [
+    {
+      "id": "scene-1",
+      "start_frame": 0,
+      "end_frame": 193
+    },
+    {
+      "id": "scene-2",
+      "start_frame": 193,
+      "end_frame": 354
+    },
+    {
+      "id": "scene-3",
+      "start_frame": 354,
+      "end_frame": 548
+    },
+    {
+      "id": "scene-4",
+      "start_frame": 548,
+      "end_frame": 777
+    }
+  ],
+  "events": [
+    {
+      "id": "event-1",
+      "start_frame": 12,
+      "end_frame": 178,
+      "target": "voice",
+      "cue_id": "cue-1",
+      "effect": "focus"
+    },
+    {
+      "id": "event-2",
+      "start_frame": 193,
+      "end_frame": 339,
+      "target": "cue",
+      "cue_id": "cue-2",
+      "effect": "focus"
+    },
+    {
+      "id": "event-3",
+      "start_frame": 354,
+      "end_frame": 533,
+      "target": "focus",
+      "cue_id": "cue-3",
+      "effect": "focus"
+    },
+    {
+      "id": "event-4",
+      "start_frame": 548,
+      "end_frame": 762,
+      "target": "frame",
+      "cue_id": "cue-4",
+      "effect": "track"
+    }
+  ]
+}

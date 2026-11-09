@@ -1,0 +1,22 @@
+{
+  "agent_review": "Style frames inspected for every cue; encoded contact sheet and selected full-size frames inspected separately. Human creative/scientific/listening approval remains pending.",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "frames": 1096,
+  "duration_s": 36.533333,
+  "audio_duration_s": 36.544,
+  "loudness_lufs": -16.67,
+  "true_peak_dbtp": -4.33,
+  "automated_errors": [],
+  "automated_warnings": [],
+  "video_sha256": "931d9e2f36827094fdfc5759538ed23bbe6e3fbd9e9644adeb626259a0fc9b55",
+  "cue_count": 4,
+  "source_hashes": {
+    "src/Root.tsx": "f747db1b35a46848f0d30c8f60f4efef3bfca36ce7ce00353cb60e6c97eebc47",
+    "src/StudioFilm.tsx": "7694c0e8af937d8df0dfee7e6cbc213acd971f72d0d23770e03e372ec7c90bbd",
+    "src/index.ts": "2e0e358282a1b998a65387c653b97c2bb2eb7aae94cf200fc0b8d919f7be73a6",
+    "src/visuals/Mechanism.tsx": "effb216f2de189c00d2b8baecd31de31c590fbb75e1b8d48b2a0d1a500127c1b"
+  }
+}

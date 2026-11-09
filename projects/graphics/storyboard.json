@@ -1,0 +1,40 @@
+{
+  "scenes": [
+    {
+      "id": "scene-1",
+      "composition": "Reveal a circular voice token with masked typography.",
+      "targets": [
+        "voice"
+      ],
+      "focus": "voice",
+      "transition": "persistent-object handoff; settle during speech"
+    },
+    {
+      "id": "scene-2",
+      "composition": "Draw a connector to a frame cue.",
+      "targets": [
+        "cue"
+      ],
+      "focus": "cue",
+      "transition": "persistent-object handoff; settle during speech"
+    },
+    {
+      "id": "scene-3",
+      "composition": "Move the shared camera slightly as a focus token activates.",
+      "targets": [
+        "focus"
+      ],
+      "focus": "focus",
+      "transition": "persistent-object handoff; settle during speech"
+    },
+    {
+      "id": "scene-4",
+      "composition": "Reveal the complete system and settle into a reading hold.",
+      "targets": [
+        "frame"
+      ],
+      "focus": "frame",
+      "transition": "persistent-object handoff; settle during speech"
+    }
+  ]
+}

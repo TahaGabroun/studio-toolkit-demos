@@ -1,0 +1,10 @@
+{
+  "errors": [],
+  "words": 42,
+  "estimated_seconds": [
+    15.8,
+    19.4
+  ],
+  "estimate_basis": "English 130–160 wpm; calibrate Arabic using actual recording",
+  "scene_count": 4
+}

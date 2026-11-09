@@ -1,0 +1,19 @@
+1
+00:00:00,400 --> 00:00:08,546
+Local injury activates resident cells. Their inflammatory mediators signal nearby vessels and recruit immune defenses.
+
+2
+00:00:09,046 --> 00:00:17,043
+Arterioles dilate, increasing local blood flow. This contributes to the redness and warmth of acute inflammation.
+
+3
+00:00:17,543 --> 00:00:26,794
+Increased permeability, especially in postcapillary venules, lets fluid and plasma proteins enter tissue, contributing to swelling.
+
+4
+00:00:27,294 --> 00:00:34,707
+Neutrophils roll, adhere, and cross the venular wall. They then follow chemical signals toward the injury.
+
+5
+00:00:35,207 --> 00:00:44,708
+When the trigger is controlled, active resolution limits recruitment and clears debris. These overlapping processes are compressed here for teaching.

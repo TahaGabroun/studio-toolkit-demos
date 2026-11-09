@@ -1,0 +1,12 @@
+{
+  "target_lufs": -16,
+  "true_peak_db": -1.5,
+  "tracks": [
+    {
+      "path": "assets/narration.wav",
+      "role": "narration",
+      "start_frame": 0,
+      "gain_db": 0
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "assets": [
+    {
+      "id": "narration",
+      "path": "assets/narration.wav",
+      "sha256": "7ce49ab314d1ae246d11d23bf3e87c2926ef3b8ccbd79b974fcff611de14fb60",
+      "license": "CC0-1.0 generated demo audio",
+      "source": "Local eSpeak NG synthesis; original Studio Toolkit demo text"
+    }
+  ]
+}

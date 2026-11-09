@@ -1,0 +1,28 @@
+{
+  "name": "studio-toolkit-demos",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Reproducible Studio Toolkit video examples with narration-driven diagrams",
+  "license": "MIT",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "prepare-demos": "node scripts/prepare.mjs",
+    "render": "node scripts/checkpoint.mjs && node scripts/render.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "stills": "node scripts/stills.mjs"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.542",
+    "@remotion/cli": "4.0.542",
+    "@remotion/renderer": "4.0.542",
+    "remotion": "4.0.542",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}

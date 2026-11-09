@@ -1,0 +1,40 @@
+{
+  "scenes": [
+    {
+      "id": "scene-1",
+      "composition": "Open with a tree silhouette, then isolate the question of dry mass.",
+      "targets": [
+        "sunlight"
+      ],
+      "focus": "sunlight",
+      "transition": "persistent-object handoff; settle during speech"
+    },
+    {
+      "id": "scene-2",
+      "composition": "Construct labelled input arrows for carbon dioxide, water and light.",
+      "targets": [
+        "air-and-water"
+      ],
+      "focus": "air-and-water",
+      "transition": "persistent-object handoff; settle during speech"
+    },
+    {
+      "id": "scene-3",
+      "composition": "Trace carbon into a sugar unit; distinguish energy from matter.",
+      "targets": [
+        "sugars"
+      ],
+      "focus": "sugars",
+      "transition": "persistent-object handoff; settle during speech"
+    },
+    {
+      "id": "scene-4",
+      "composition": "Build a trunk from linked carbon units; retain a mineral side note.",
+      "targets": [
+        "biomass"
+      ],
+      "focus": "biomass",
+      "transition": "persistent-object handoff; settle during speech"
+    }
+  ]
+}

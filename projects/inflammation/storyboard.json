@@ -1,0 +1,49 @@
+{
+  "scenes": [
+    {
+      "id": "scene-1",
+      "composition": "Identify a local injury above the vessel; dim the surrounding tissue.",
+      "targets": [
+        "injury-signal"
+      ],
+      "focus": "injury-signal",
+      "transition": "persistent-object handoff; settle during speech"
+    },
+    {
+      "id": "scene-2",
+      "composition": "Focus the arteriolar inflow and widen its lumen without calling a capillary an arteriole.",
+      "targets": [
+        "arteriolar-dilation"
+      ],
+      "focus": "arteriolar-dilation",
+      "transition": "persistent-object handoff; settle during speech"
+    },
+    {
+      "id": "scene-3",
+      "composition": "Identify postcapillary venule; show protein-rich fluid crossing into tissue.",
+      "targets": [
+        "venular-permeability"
+      ],
+      "focus": "venular-permeability",
+      "transition": "persistent-object handoff; settle during speech"
+    },
+    {
+      "id": "scene-4",
+      "composition": "Track a segmented-nucleus neutrophil through rolling, adhesion and transmigration.",
+      "targets": [
+        "neutrophil-recruitment"
+      ],
+      "focus": "neutrophil-recruitment",
+      "transition": "persistent-object handoff; settle during speech"
+    },
+    {
+      "id": "scene-5",
+      "composition": "Fade to a restrained repair state; label teaching-time compression, not a literal biological clock.",
+      "targets": [
+        "resolution"
+      ],
+      "focus": "resolution",
+      "transition": "persistent-object handoff; settle during speech"
+    }
+  ]
+}

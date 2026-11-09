@@ -1,0 +1,57 @@
+{
+  "title": "Acute inflammation, in focus",
+  "promise": "Explain vascular changes, neutrophil recruitment and resolution using anatomically identified structures.",
+  "language": "en",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "role": "hook",
+      "narration": "Local injury activates resident cells. Their inflammatory mediators signal nearby vessels and recruit immune defenses.",
+      "visual": "Identify a local injury above the vessel; dim the surrounding tissue.",
+      "source_ids": [
+        "innate",
+        "review"
+      ]
+    },
+    {
+      "id": "scene-2",
+      "role": "development",
+      "narration": "Arterioles dilate, increasing local blood flow. This contributes to the redness and warmth of acute inflammation.",
+      "visual": "Focus the arteriolar inflow and widen its lumen without calling a capillary an arteriole.",
+      "source_ids": [
+        "innate",
+        "review"
+      ]
+    },
+    {
+      "id": "scene-3",
+      "role": "development",
+      "narration": "Increased permeability, especially in postcapillary venules, lets fluid and plasma proteins enter tissue, contributing to swelling.",
+      "visual": "Identify postcapillary venule; show protein-rich fluid crossing into tissue.",
+      "source_ids": [
+        "innate",
+        "review"
+      ]
+    },
+    {
+      "id": "scene-4",
+      "role": "development",
+      "narration": "Neutrophils roll, adhere, and cross the venular wall. They then follow chemical signals toward the injury.",
+      "visual": "Track a segmented-nucleus neutrophil through rolling, adhesion and transmigration.",
+      "source_ids": [
+        "innate",
+        "review"
+      ]
+    },
+    {
+      "id": "scene-5",
+      "role": "payoff",
+      "narration": "When the trigger is controlled, active resolution limits recruitment and clears debris. These overlapping processes are compressed here for teaching.",
+      "visual": "Fade to a restrained repair state; label teaching-time compression, not a literal biological clock.",
+      "source_ids": [
+        "innate",
+        "review"
+      ]
+    }
+  ]
+}

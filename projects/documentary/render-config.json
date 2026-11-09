@@ -1,0 +1,12 @@
+{
+  "engine": "remotion",
+  "composition": "Documentary",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration_frames": 1096,
+  "codec": "h264",
+  "source_files": [
+    "animation.md"
+  ]
+}

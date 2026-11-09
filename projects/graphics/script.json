@@ -1,0 +1,43 @@
+{
+  "title": "Make the explanation visible.",
+  "promise": "Show a reusable voice-to-frame mechanism with progressive typography and a shared camera.",
+  "language": "en",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "role": "hook",
+      "narration": "Start with the voice. The explanation decides which object deserves attention.",
+      "visual": "Reveal a circular voice token with masked typography.",
+      "source_ids": [
+        "design"
+      ]
+    },
+    {
+      "id": "scene-2",
+      "role": "development",
+      "narration": "Mark the exact cue. Store it once, on a shared frame timeline.",
+      "visual": "Draw a connector to a frame cue.",
+      "source_ids": [
+        "design"
+      ]
+    },
+    {
+      "id": "scene-3",
+      "role": "development",
+      "narration": "Build the relationship. Reveal the next connection while the current label stays readable.",
+      "visual": "Move the shared camera slightly as a focus token activates.",
+      "source_ids": [
+        "design"
+      ]
+    },
+    {
+      "id": "scene-4",
+      "role": "payoff",
+      "narration": "Resolve into one composition. Voice, captions, and motion now share the same timing contract.",
+      "visual": "Reveal the complete system and settle into a reading hold.",
+      "source_ids": [
+        "design"
+      ]
+    }
+  ]
+}

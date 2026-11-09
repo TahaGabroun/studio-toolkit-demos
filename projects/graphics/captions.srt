@@ -1,0 +1,15 @@
+1
+00:00:00,400 --> 00:00:05,919
+Start with the voice. The explanation decides which object deserves attention.
+
+2
+00:00:06,419 --> 00:00:11,308
+Mark the exact cue. Store it once, on a shared frame timeline.
+
+3
+00:00:11,808 --> 00:00:17,754
+Build the relationship. Reveal the next connection while the current label stays readable.
+
+4
+00:00:18,254 --> 00:00:25,389
+Resolve into one composition. Voice, captions, and motion now share the same timing contract.

@@ -1,0 +1,43 @@
+{
+  "title": "من الهواء إلى الخشب",
+  "promise": "Explain photosynthetic carbon fixation in an Arabic short with mixed scientific terminology.",
+  "language": "ar",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "role": "hook",
+      "narration": "من أين تأتي كتلة الشجرة؟ جزء كبير من كتلتها الجافة يبدأ من الهواء.",
+      "visual": "Pose a clear question in Arabic.",
+      "source_ids": [
+        "plant"
+      ]
+    },
+    {
+      "id": "scene-2",
+      "role": "development",
+      "narration": "تأخذ الأوراق ثاني أكسيد الكربون، أو CO2، وتستخدم طاقة الضوء.",
+      "visual": "Isolate CO₂ in an LTR span inside an RTL sentence.",
+      "source_ids": [
+        "plant"
+      ]
+    },
+    {
+      "id": "scene-3",
+      "role": "development",
+      "narration": "يثبت البناء الضوئي الكربون في مركبات عضوية، منها السكريات.",
+      "visual": "Build an original molecule schematic.",
+      "source_ids": [
+        "plant"
+      ]
+    },
+    {
+      "id": "scene-4",
+      "role": "payoff",
+      "narration": "يساهم هذا الكربون في بناء الخشب. والماء والمعادن ضروريان أيضا.",
+      "visual": "Show material flow into a stylized trunk.",
+      "source_ids": [
+        "plant"
+      ]
+    }
+  ]
+}

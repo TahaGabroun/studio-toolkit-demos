@@ -1,0 +1,31 @@
+{
+  "audio": "assets/narration.wav",
+  "audio_sha256": "7ce49ab314d1ae246d11d23bf3e87c2926ef3b8ccbd79b974fcff611de14fb60",
+  "method": "synthetic-test",
+  "segments": [
+    {
+      "id": "cue-1",
+      "start_s": 0.4,
+      "end_s": 7.554333,
+      "text": "A tree grows heavier each year. But much of its dry mass begins as an invisible gas in the air, not as soil."
+    },
+    {
+      "id": "cue-2",
+      "start_s": 8.054333,
+      "end_s": 16.974792,
+      "text": "Leaves take in carbon dioxide. Roots supply water. Light energy powers reactions that let plants build organic molecules."
+    },
+    {
+      "id": "cue-3",
+      "start_s": 17.474792,
+      "end_s": 25.927042,
+      "text": "Photosynthesis incorporates carbon into sugars. The plant uses these molecules as fuel and as building blocks for growth."
+    },
+    {
+      "id": "cue-4",
+      "start_s": 26.427042,
+      "end_s": 36.013021,
+      "text": "Wood contains carbon that came from carbon dioxide. Water contributes much fresh mass, while minerals remain essential in smaller amounts."
+    }
+  ]
+}

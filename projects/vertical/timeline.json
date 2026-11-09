@@ -1,0 +1,60 @@
+{
+  "fps": 30,
+  "duration_frames": 888,
+  "scenes": [
+    {
+      "id": "scene-1",
+      "start_frame": 0,
+      "end_frame": 228
+    },
+    {
+      "id": "scene-2",
+      "start_frame": 228,
+      "end_frame": 448
+    },
+    {
+      "id": "scene-3",
+      "start_frame": 448,
+      "end_frame": 658
+    },
+    {
+      "id": "scene-4",
+      "start_frame": 658,
+      "end_frame": 888
+    }
+  ],
+  "events": [
+    {
+      "id": "event-1",
+      "start_frame": 12,
+      "end_frame": 213,
+      "target": "السؤال",
+      "cue_id": "cue-1",
+      "effect": "focus"
+    },
+    {
+      "id": "event-2",
+      "start_frame": 228,
+      "end_frame": 433,
+      "target": "الفكرة",
+      "cue_id": "cue-2",
+      "effect": "focus"
+    },
+    {
+      "id": "event-3",
+      "start_frame": 448,
+      "end_frame": 643,
+      "target": "الدليل",
+      "cue_id": "cue-3",
+      "effect": "focus"
+    },
+    {
+      "id": "event-4",
+      "start_frame": 658,
+      "end_frame": 872,
+      "target": "الخلاصة",
+      "cue_id": "cue-4",
+      "effect": "track"
+    }
+  ]
+}

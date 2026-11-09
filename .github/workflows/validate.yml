@@ -1,0 +1,31 @@
+name: Validate and render demos
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  examples:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: studio-toolkit-demos
+      - uses: actions/checkout@v4
+        with:
+          repository: TahaGabroun/studio-toolkit
+          path: studio-toolkit
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: python -m venv studio-toolkit/.venv && studio-toolkit/.venv/bin/pip install -r studio-toolkit/requirements-lock.txt
+      - run: npm ci && npm run typecheck && npm test
+        working-directory: studio-toolkit-demos
+      - run: npm run render -- graphics
+        working-directory: studio-toolkit-demos
+      - uses: actions/upload-artifact@v4
+        with:
+          name: rendered-graphics
+          path: studio-toolkit-demos/projects/graphics/render/final.mp4

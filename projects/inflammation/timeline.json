@@ -1,0 +1,73 @@
+{
+  "fps": 30,
+  "duration_frames": 1357,
+  "scenes": [
+    {
+      "id": "scene-1",
+      "start_frame": 0,
+      "end_frame": 271
+    },
+    {
+      "id": "scene-2",
+      "start_frame": 271,
+      "end_frame": 526
+    },
+    {
+      "id": "scene-3",
+      "start_frame": 526,
+      "end_frame": 819
+    },
+    {
+      "id": "scene-4",
+      "start_frame": 819,
+      "end_frame": 1056
+    },
+    {
+      "id": "scene-5",
+      "start_frame": 1056,
+      "end_frame": 1357
+    }
+  ],
+  "events": [
+    {
+      "id": "event-1",
+      "start_frame": 12,
+      "end_frame": 256,
+      "target": "injury-signal",
+      "cue_id": "cue-1",
+      "effect": "focus"
+    },
+    {
+      "id": "event-2",
+      "start_frame": 271,
+      "end_frame": 511,
+      "target": "arteriolar-dilation",
+      "cue_id": "cue-2",
+      "effect": "focus"
+    },
+    {
+      "id": "event-3",
+      "start_frame": 526,
+      "end_frame": 804,
+      "target": "venular-permeability",
+      "cue_id": "cue-3",
+      "effect": "focus"
+    },
+    {
+      "id": "event-4",
+      "start_frame": 819,
+      "end_frame": 1041,
+      "target": "neutrophil-recruitment",
+      "cue_id": "cue-4",
+      "effect": "track"
+    },
+    {
+      "id": "event-5",
+      "start_frame": 1056,
+      "end_frame": 1341,
+      "target": "resolution",
+      "cue_id": "cue-5",
+      "effect": "focus"
+    }
+  ]
+}

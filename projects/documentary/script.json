@@ -1,0 +1,43 @@
+{
+  "title": "Where does a tree get its mass?",
+  "promise": "Explain how carbon from air becomes a major part of a tree’s dry mass.",
+  "language": "en",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "role": "hook",
+      "narration": "A tree grows heavier each year. But much of its dry mass begins as an invisible gas in the air, not as soil.",
+      "visual": "Open with a tree silhouette, then isolate the question of dry mass.",
+      "source_ids": [
+        "plant"
+      ]
+    },
+    {
+      "id": "scene-2",
+      "role": "development",
+      "narration": "Leaves take in carbon dioxide. Roots supply water. Light energy powers reactions that let plants build organic molecules.",
+      "visual": "Construct labelled input arrows for carbon dioxide, water and light.",
+      "source_ids": [
+        "plant"
+      ]
+    },
+    {
+      "id": "scene-3",
+      "role": "development",
+      "narration": "Photosynthesis incorporates carbon into sugars. The plant uses these molecules as fuel and as building blocks for growth.",
+      "visual": "Trace carbon into a sugar unit; distinguish energy from matter.",
+      "source_ids": [
+        "plant"
+      ]
+    },
+    {
+      "id": "scene-4",
+      "role": "payoff",
+      "narration": "Wood contains carbon that came from carbon dioxide. Water contributes much fresh mass, while minerals remain essential in smaller amounts.",
+      "visual": "Build a trunk from linked carbon units; retain a mineral side note.",
+      "source_ids": [
+        "plant"
+      ]
+    }
+  ]
+}

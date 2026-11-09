@@ -1,0 +1,40 @@
+{
+  "scenes": [
+    {
+      "id": "scene-1",
+      "composition": "Pose a clear question in Arabic.",
+      "targets": [
+        "السؤال"
+      ],
+      "focus": "السؤال",
+      "transition": "persistent-object handoff; settle during speech"
+    },
+    {
+      "id": "scene-2",
+      "composition": "Isolate CO₂ in an LTR span inside an RTL sentence.",
+      "targets": [
+        "الفكرة"
+      ],
+      "focus": "الفكرة",
+      "transition": "persistent-object handoff; settle during speech"
+    },
+    {
+      "id": "scene-3",
+      "composition": "Build an original molecule schematic.",
+      "targets": [
+        "الدليل"
+      ],
+      "focus": "الدليل",
+      "transition": "persistent-object handoff; settle during speech"
+    },
+    {
+      "id": "scene-4",
+      "composition": "Show material flow into a stylized trunk.",
+      "targets": [
+        "الخلاصة"
+      ],
+      "focus": "الخلاصة",
+      "transition": "persistent-object handoff; settle during speech"
+    }
+  ]
+}

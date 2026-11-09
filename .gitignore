@@ -1,0 +1,14 @@
+node_modules/
+work/
+__pycache__/
+.env
+.env.*
+projects/*/state.json
+projects/*/render/
+projects/*/qa/frame-*.png
+projects/*/qa/contact-sheet.jpg
+projects/*/qa/automated.json
+projects/*/qa/render.json
+projects/*/qa/mix.json
+projects/*/qa-report.md
+.DS_Store

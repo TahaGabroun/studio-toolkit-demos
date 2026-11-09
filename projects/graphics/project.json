@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "title": "Make the explanation visible.",
+  "language": "en",
+  "direction": "ltr",
+  "width": 1080,
+  "height": 1080,
+  "fps": 30,
+  "duration_frames": 777,
+  "engine": "remotion"
+}
