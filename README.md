@@ -47,3 +47,7 @@ All diagrams and demo text are original MIT material. Generated narration/test s
 ## Future production workflow
 
 Future anatomical films use the actual anatomy skill for biological design and ElevenLabs for new production narration, as configured in the toolkit production workflow. This repository retains its original generated test voices and diagrams as calibration/reproducibility examples. Reproducing them does not call ElevenLabs or imply that the anatomy skill was used. For a new production, start a toolkit project, resolve the anatomy skill, choose an ElevenLabs voice, generate/review actual timing cues, then build the animation.
+
+## Cartoon and template animation examples
+
+[Six code-drawn animation checks](animation-demos/README.md) exercise the added cartoon, stick-figure, graph, line-art, illustrative route and exploded-view workflows through Studio Toolkit 0.4+. Their default assets are original silent calibration source. They complement the four existing narrative Remotion projects; they do not replace the Anatomy drawing preference or imply live ElevenLabs generation.
