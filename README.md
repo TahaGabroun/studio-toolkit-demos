@@ -51,3 +51,7 @@ Future anatomical films use the actual anatomy skill for biological design and E
 ## Cartoon and template animation examples
 
 [Six code-drawn animation checks](animation-demos/README.md) exercise the added cartoon, stick-figure, graph, line-art, illustrative route and exploded-view workflows through Studio Toolkit 0.4+. Their default assets are original silent calibration source. They complement the four existing narrative Remotion projects; they do not replace the Anatomy drawing preference or imply live ElevenLabs generation.
+
+## Production direction and selective reviews
+
+The [directed production example](director-flow/README.md) uses Studio Toolkit 0.5 to select appropriate scene tools and a main renderer, review real evidence before full production, retain unchanged content during visual replans, and return to affected work when data or claims change. It records agent/human review separately and never auto-passes creative checks.
